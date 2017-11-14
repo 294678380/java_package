@@ -1,13 +1,13 @@
 {
   "name": "java_package",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "require your package from dirs.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "test": "mocha test"
+    "test": "node_modules/mocha/bin/_mocha test"
   },
   "repository": {
     "type": "git",
