@@ -1,0 +1,35 @@
+{
+  "name": "java_package",
+  "version": "0.2.0",
+  "description": "require your package from dirs.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/294678380/java_package.git"
+  },
+  "keywords": [
+    "packages",
+    "fs",
+    "require",
+    "requireall",
+    "import",
+    "export",
+    "class"
+  ],
+  "author": "zhangtaifeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/294678380/java_package/issues"
+  },
+  "homepage": "https://github.com/294678380/java_package#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
