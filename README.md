@@ -11,7 +11,13 @@
   npm install java_package --save
 ```
 ```javascript
-  let java_package = require("java_package");
+  global.package = require("java_package")(__dirname); //传入工作目录
+  
+  package("package::com.test"); //表示引入工作目录下com下面的test.js文件
+  
+  package("package::com.*") //表示引入工作目录下com文件夹下的所有.js文件
+  
+  package("package::com.test","json"); //表示引入工作目录下com下面的test.json文件
 ```
 [我的博客](http://www.cnblogs.com/ztfjs/) 
 
