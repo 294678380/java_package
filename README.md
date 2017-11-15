@@ -1,4 +1,4 @@
-![](https://travis-ci.org/294678380/java_package.svg?branch=master)
+![](https://travis-ci.org/294678380/java_package.svg?branch=master) [![BCH compliance](https://bettercodehub.com/edge/badge/294678380/java_package?branch=master)](https://bettercodehub.com/)
 # java_package
 ==============================================
 
