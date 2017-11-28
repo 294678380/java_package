@@ -1,6 +1,6 @@
 {
   "name": "java_package",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "require your package from dirs.",
   "main": "index.js",
   "directories": {
