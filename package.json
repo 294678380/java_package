@@ -30,6 +30,9 @@
   "homepage": "https://github.com/294678380/java_package#readme",
   "dependencies": {
     "chai": "^4.1.2",
-    "mocha": "^4.0.1"
+    "css-loader": "^0.28.7",
+    "mocha": "^4.0.1",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.8.1"
   }
 }
